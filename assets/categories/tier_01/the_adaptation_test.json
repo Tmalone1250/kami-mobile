@@ -1,0 +1,282 @@
+[
+  {
+    "id": "at_01",
+    "anime_a": "Tokyo Ghoul",
+    "anime_b": "The Promised Neverland",
+    "question": "Did Tokyo Ghoul Root A ruin its source material worse than The Promised Neverland Season 2?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "root_a_survivor",
+      "swipe_left": "goldy_pond_mourner"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_02",
+    "anime_a": "Fullmetal Alchemist (2003)",
+    "anime_b": "Soul Eater",
+    "question": "Is FMA 2003's dark anime-original ending vastly superior to Soul Eater's infamous 'courage punch'?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-zjmixZ428Mwv.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3588-fSMggQoFSbUI.png",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "conqueror_of_shamballa",
+      "swipe_left": "maka_chop_apologist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_03",
+    "anime_a": "One Piece",
+    "anime_b": "Naruto",
+    "question": "Is One Piece's excruciating canon-stretching pacing actually worse for the viewer than Naruto's endless non-canon filler arcs?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "dressrosa_victim",
+      "swipe_left": "infinite_tsukuyomi_sleeper"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_04",
+    "anime_a": "Berserk (2016)",
+    "anime_b": "Record of Ragnarok",
+    "question": "Was the Berserk 2016 CGI adaptation a worse crime against manga art than Record of Ragnarok's literal PowerPoint slideshow fights?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21560-6iifjdssfebJ.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127399-AAH1pevCZLrB.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "clang_hater",
+      "swipe_left": "slideshow_spectator"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_05",
+    "anime_a": "Akira",
+    "anime_b": "Nausicaä of the Valley of the Wind",
+    "question": "Did Akira's movie butcher its sprawling manga plot worse than Miyazaki condensing Nausicaä?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx47-4CR68arv452h.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx572-ZE3kHBA6U0X1.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "neo_tokyo_reader",
+      "swipe_left": "sea_of_corruption_scholar"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_06",
+    "anime_a": "Demon Slayer",
+    "anime_b": "Attack on Titan",
+    "question": "Is the Demon Slayer manga completely mediocre and entirely hard-carried by Ufotable compared to Isayama's god-tier AOT paneling?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "ufotable_dependent",
+      "swipe_left": "isayama_art_critic"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_07",
+    "anime_a": "Classroom of the Elite",
+    "anime_b": "Mushoku Tensei",
+    "question": "Did the Classroom of the Elite anime butcher Ayanokoji's internal monologue worse than Mushoku Tensei skipped Rudy's inner thoughts?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "ayanokoji_reader",
+      "swipe_left": "rudy_apologist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_08",
+    "anime_a": "Hunter x Hunter (1999)",
+    "anime_b": "Hunter x Hunter (2011)",
+    "question": "Does the dark, gritty direction of HxH 1999 completely outclass the heavily censored, bright early episodes of HxH 2011?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "yorknew_99_elitist",
+      "swipe_left": "madhouse_11_purist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_09",
+    "anime_a": "Boruto",
+    "anime_b": "Dragon Ball Super",
+    "question": "Is Boruto's absurd manga-to-anime filler ratio a bigger insult to its franchise than Dragon Ball Super's early animation disasters?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21220-3cWAUtR1Ih5h.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21175-EH06qlfF8TnB.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "naruto_purist",
+      "swipe_left": "db_super_hater"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_10",
+    "anime_a": "Bleach: Thousand-Year Blood War",
+    "anime_b": "Gintama: The Very Final",
+    "question": "Did Kubo using the TYBW anime to fix his rushed manga ending make it a better adaptation than Gintama's flawless final movie?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114129-RLgSuh6YbeYx.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "kubo_visionary",
+      "swipe_left": "yorozuya_forever"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_11",
+    "anime_a": "Trigun (1998)",
+    "anime_b": "Hellsing (2001)",
+    "question": "Is the Trigun anime's original pacifist ending better written than Hellsing's bizarre anime-original vampire plot?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6-wd4saT1JzStH.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b270-S2ProngvO6BU.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "vash_philosopher",
+      "swipe_left": "alucard_purist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_12",
+    "anime_a": "Fate/stay night (2006)",
+    "anime_b": "Tsukihime",
+    "question": "Was Studio Deen's Fate route actually a passable VN adaptation compared to the legendary disaster of the non-existent Tsukihime anime?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx356-mTpMvtillumS.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169-ATwPxULRSDRr.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "deen_defender",
+      "swipe_left": "type_moon_denier"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_13",
+    "anime_a": "Horimiya",
+    "anime_b": "Kaguya-sama: Love is War",
+    "question": "Was skipping 60% of Horimiya's manga chapters a worse directorial choice than Kaguya-sama cutting out minor student council gags?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-3i22mRVPBS0T.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-ufrjLzhSz7L1.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "miyamura_reader",
+      "swipe_left": "shirogane_loyalist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_14",
+    "anime_a": "K-On!",
+    "anime_b": "Bocchi the Rock!",
+    "question": "Did Kyoto Animation elevate the K-On! 4-koma manga more than CloverWorks elevated Bocchi's source material?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5680-r3AI3Cwfv0Aq.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-HTDmeL4RGeJ4.png",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "tea_time_enjoyer",
+      "swipe_left": "kessoku_band_fan"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_15",
+    "anime_a": "Blue Exorcist",
+    "anime_b": "Black Butler",
+    "question": "Was Blue Exorcist's fake anime ending more confusing to viewers than Black Butler pretending its bizarre Season 2 didn't exist?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9919-nXS7JOZrWHfS.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx4898-mW4gabZvwmLC.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "rin_retcon_victim",
+      "swipe_left": "sebastian_sympathizer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_16",
+    "anime_a": "JoJo's Bizarre Adventure",
+    "anime_b": "One Punch Man",
+    "question": "Is David Production's literal 1:1 manga panel adaptation of JoJo more impressive than Season 1 OPM perfectly animating Murata's god-tier art?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx666-kYzXvKlUbeMP.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "araki_disciple",
+      "swipe_left": "murata_worshipper"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_17",
+    "anime_a": "Gantz",
+    "anime_b": "Claymore",
+    "question": "Did the Claymore anime's rushed, original finale ruin the series more than Gantz's infamous, incoherent anime trainwreck ending?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx384-5vHimZPju1Wr.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1818-KieLJv0qo3mO.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "silver_eyed_reader",
+      "swipe_left": "black_sphere_survivor"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_18",
+    "anime_a": "Rosario + Vampire",
+    "anime_b": "Yamada-kun and the Seven Witches",
+    "question": "Was turning the dark Rosario+Vampire battle manga into a pure ecchi comedy a worse crime than Yamada-kun cramming 90 chapters into 12 episodes?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2993.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20966-HboUtUzEKWl6.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "inner_moka_reader",
+      "swipe_left": "rushed_witch_watcher"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_19",
+    "anime_a": "Attack on Titan",
+    "anime_b": "The God of High School",
+    "question": "Did WIT Studio trimming AOT's Uprising Arc heavily improve the pacing, whereas condensing God of High School destroyed its entire plot?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116006-Wt8JSA1ZQxlM.png",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "isayama_editor",
+      "swipe_left": "webtoon_purist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "at_20",
+    "anime_a": "Mob Psycho 100",
+    "anime_b": "Ping Pong the Animation",
+    "question": "Did Bones do a more impressive job elevating ONE's rough Mob Psycho art than Science SARU did with Matsumoto's Ping Pong?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20607-fIOxVISIl0HY.jpg",
+    "category": "The Adaptation Test",
+    "traits": {
+      "swipe_right": "bones_animator",
+      "swipe_left": "yuasa_director"
+    },
+    "tier": "tier_01"
+  }
+]

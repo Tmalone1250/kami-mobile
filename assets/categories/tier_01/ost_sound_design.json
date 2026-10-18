@@ -1,0 +1,282 @@
+[
+  {
+    "id": "os_01",
+    "anime_a": "Attack on Titan",
+    "anime_b": "Bleach",
+    "question": "Do Hiroyuki Sawano's massive epic 'drop' tracks actually outclass Shiro Sagisu's legendary orchestral choirs?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "sawano_drop_addict",
+      "swipe_left": "sagisu_choir_loyalist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_02",
+    "anime_a": "Cowboy Bebop",
+    "anime_b": "Samurai Champloo",
+    "question": "Is Yoko Kanno's timeless space jazz objectively a better soundtrack than Nujabes' foundational lo-fi hip hop?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205-7tHVFu6dPBm9.png",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "space_jazz_cat",
+      "swipe_left": "lofi_samurai"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_03",
+    "anime_a": "Devilman Crybaby",
+    "anime_b": "Made in Abyss",
+    "question": "Does Kensuke Ushio's chaotic synth-wave hit harder than Kevin Penkin's ethereal, haunting fantasy score?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98460-bLtH2c3jd6sV.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-TQ7dCgbS3y5s.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "synthwave_demon",
+      "swipe_left": "abyssal_orchestra"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_04",
+    "anime_a": "Tokyo Ghoul",
+    "anime_b": "Demon Slayer",
+    "question": "Is 'Unravel' still the undisputed king of anime openings over modern explosive hits like 'Gurenge'?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20605-k665mVkSug8D.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "unravel_screamer",
+      "swipe_left": "gurenge_hummer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_05",
+    "anime_a": "JoJo's Bizarre Adventure",
+    "anime_b": "Fire Force",
+    "question": "Are the legendary, memeable Stand sound effects better than Fire Force's absurdly heavy, bass-boosted explosions?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx666-kYzXvKlUbeMP.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-2PKUvoaA6fTn.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "stand_sfx_purist",
+      "swipe_left": "bass_drop_junkie"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_06",
+    "anime_a": "Your Name",
+    "anime_b": "A Silent Voice",
+    "question": "Do RADWIMPS' soaring vocal anthems carry the movie harder than Ushio's subtle, heartbeat-paced piano score?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97962-3rBcawJt63sG.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "radwimps_crier",
+      "swipe_left": "subtle_piano_appreciator"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_07",
+    "anime_a": "FLCL",
+    "anime_b": "Bocchi the Rock!",
+    "question": "Did The Pillows lay down a better, grungier alt-rock soundtrack than Kessoku Band's polished modern indie hits?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx227-qOB9ZhVvNnqO.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-HTDmeL4RGeJ4.png",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "pillows_groupie",
+      "swipe_left": "kessoku_band_fan"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_08",
+    "anime_a": "Fate/Zero",
+    "anime_b": "Berserk (1997)",
+    "question": "Are Yuki Kajiura's tragic gothic choirs a superior dark fantasy soundtrack to Susumu Hirasawa's bizarre cyber-shamanic vocals?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10087-M4Hd9qrHGrXk.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx33-PSwfE5B0gejI.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "kajiura_cultist",
+      "swipe_left": "forces_chanter"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_09",
+    "anime_a": "Neon Genesis Evangelion",
+    "anime_b": "Cowboy Bebop",
+    "question": "Is 'A Cruel Angel's Thesis' objectively a more iconic, culturally significant opening than 'Tank!'?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "karaoke_evangelion",
+      "swipe_left": "3_2_1_lets_jam"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_10",
+    "anime_a": "Jujutsu Kaisen",
+    "anime_b": "JoJo's Bizarre Adventure",
+    "question": "Voice Actor War: Does Kenjiro Tsuda (Nanami) have a more intoxicatingly cool voice than Takehito Koyasu (DIO)?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx666-kYzXvKlUbeMP.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "tsuda_simp",
+      "swipe_left": "wryyyyy_screamer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_11",
+    "anime_a": "Dragon Ball Z",
+    "anime_b": "Dragon Ball Z",
+    "question": "Is Bruce Faulconer's western synth score actually far superior to the original Japanese orchestral tracks by Shunsuke Kikuchi?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "toonami_nostalgic",
+      "swipe_left": "dbz_purist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_12",
+    "anime_a": "Bleach",
+    "anime_b": "Fullmetal Alchemist: Brotherhood",
+    "question": "Does Bleach have a more flawless, unskippable run of opening themes than FMAB's legendary lineup?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "asterisk_enjoyer",
+      "swipe_left": "again_yui_fan"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_13",
+    "anime_a": "Naruto",
+    "anime_b": "Fairy Tail",
+    "question": "Did Yasuharu Takanashi compose a better battle soundtrack for Naruto's ninja fights than he did for Fairy Tail's wizard guilds?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-KI4qgSMyI8Pm.png",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "hidden_leaf_headbanger",
+      "swipe_left": "celtic_rock_wizard"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_14",
+    "anime_a": "My Hero Academia",
+    "anime_b": "One Piece",
+    "question": "Does My Hero Academia's 'You Say Run' generate more pure hype than One Piece's 'Overtaken'?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "plus_ultra_runner",
+      "swipe_left": "drums_of_liberation"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_15",
+    "anime_a": "Violet Evergarden",
+    "anime_b": "Frieren: Beyond Journey's End",
+    "question": "Do Evan Call's typewriter themes for Violet Evergarden evoke more raw emotion than his melancholic score for Frieren?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-qQTzQnEJJ3oB.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "automemories_crier",
+      "swipe_left": "elf_tearjerker"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_16",
+    "anime_a": "Initial D",
+    "anime_b": "Cyberpunk: Edgerunners",
+    "question": "Did Initial D's 90s Eurobeat elevate its action scenes to higher peak hype than Edgerunners' 2020s Synthwave?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185-GvXiR8AKTmdn.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "deja_vu_drifter",
+      "swipe_left": "i_really_want_to_stay_at_your_house"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_17",
+    "anime_a": "Ghost in the Shell: Stand Alone Complex",
+    "anime_b": "Black Lagoon",
+    "question": "Is GITS: SAC the undisputed greatest English dub in anime history, beating out even Black Lagoon's incredible cast?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx467-mBTtIoR13qs2.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx889-4S7N2ciq2cwA.png",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "major_motoko_dub",
+      "swipe_left": "revy_profanity_enjoyer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_18",
+    "anime_a": "Hunter x Hunter (2011)",
+    "anime_b": "Death Note",
+    "question": "Is Hunter x Hunter using 'Departure!' for all 148 episodes more iconic than Death Note switching to heavy metal midway through?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "departure_singer",
+      "swipe_left": "maximum_the_hormone_mosher"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_19",
+    "anime_a": "Attack on Titan",
+    "anime_b": "Attack on Titan",
+    "question": "Did SiM's 'The Rumbling' heavy metal opening fit the tone of the final season better than Linked Horizon's classic patriotic anthems?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "rumbling_headbanger",
+      "swipe_left": "sasageyo_saluter"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "os_20",
+    "anime_a": "Gintama",
+    "anime_b": "Kaguya-sama: Love is War",
+    "question": "Did Gintama utilize absurd, genre-breaking sound effects for comedy better than Kaguya-sama's narrator segments?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-ufrjLzhSz7L1.jpg",
+    "category": "OST & Sound Design",
+    "traits": {
+      "swipe_right": "yorozuya_sfx",
+      "swipe_left": "student_council_audio"
+    },
+    "tier": "tier_01"
+  }
+]

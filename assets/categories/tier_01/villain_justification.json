@@ -1,0 +1,282 @@
+[
+  {
+    "id": "vj_01",
+    "anime_a": "Attack on Titan",
+    "anime_b": "Code Geass",
+    "question": "Is Eren's global genocide in the Rumbling significantly less justified than Lelouch's Zero Requiem?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126830-Mx56p5DMIjiq.png",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "zero_requiem_purist",
+      "swipe_left": "yeagerist_extremist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_02",
+    "anime_a": "Berserk",
+    "anime_b": "Monster",
+    "question": "Does the meme 'Griffith did nothing wrong' actually have more philosophical merit than Johan Liebert's pure nihilism?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx33-PSwfE5B0gejI.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-gtMC64182sm4.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "eclipse_apologist",
+      "swipe_left": "nameless_monster"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_03",
+    "anime_a": "Naruto",
+    "anime_b": "Bleach",
+    "question": "Was Madara's Infinite Tsukuyomi a more benevolent plan for world peace than Aizen's desire to overthrow the Soul King?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "tsukuyomi_dreamer",
+      "swipe_left": "aizen_manipulator"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_04",
+    "anime_a": "Jujutsu Kaisen",
+    "anime_b": "Naruto",
+    "question": "Was Suguru Geto more justified in wanting to eradicate non-sorcerers than Pain was in wanting to nuke the Shinobi world?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "monkey_hater",
+      "swipe_left": "cycle_of_pain"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_05",
+    "anime_a": "Made in Abyss",
+    "anime_b": "Fullmetal Alchemist: Brotherhood",
+    "question": "Are Bondrewd's horrific child experiments more scientifically excusable than Shou Tucker's desperate chimera research?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-TQ7dCgbS3y5s.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "dawn_of_triumph",
+      "swipe_left": "nina_tucker_sympathizer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_06",
+    "anime_a": "Attack on Titan",
+    "anime_b": "Naruto",
+    "question": "Was Zeke's Eldian Euthanasia plan mathematically and morally superior to Itachi slaughtering his entire clan?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "anti_natalist_monke",
+      "swipe_left": "uchiha_loyalist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_07",
+    "anime_a": "Gurren Lagann",
+    "anime_b": "Puella Magi Madoka Magica",
+    "question": "Were the Anti-Spirals more justified in oppressing humanity to save the universe than Kyubey was in harvesting magical girls?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-XwRnjzGeFWRQ.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9756-QnUGwlwwnsuN.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "spiral_nemesis",
+      "swipe_left": "entropy_incubator"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_08",
+    "anime_a": "Psycho-Pass",
+    "anime_b": "Death Note",
+    "question": "Was Shogo Makishima the actual hero of Psycho-Pass for trying to destroy a dystopian AI, while Light Yagami was just a narcissist?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13601-i42VFuHpqEOJ.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "free_will_absolutist",
+      "swipe_left": "kira_worshipper"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_09",
+    "anime_a": "Attack on Titan",
+    "anime_b": "Naruto",
+    "question": "Is Reiner's terrorism completely forgivable because he was a brainwashed child, unlike Sasuke's conscious treason?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "marleyan_victim",
+      "swipe_left": "avenger_edgelord"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_10",
+    "anime_a": "The Promised Neverland",
+    "anime_b": "Attack on Titan",
+    "question": "Was Isabella feeding orphans to demons to survive more forgivable than Annie slaughtering the Survey Corps to return to her father?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-8UR7r9MNVpz2.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "grace_field_pragmatist",
+      "swipe_left": "female_titan_apologist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_11",
+    "anime_a": "Hunter x Hunter",
+    "anime_b": "One Punch Man",
+    "question": "Does Meruem's genuine love for Komugi redeem his villainy more than Garou's secret soft spot for Tareo?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "chimera_ant_forgiver",
+      "swipe_left": "hero_hunter_realist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_12",
+    "anime_a": "My Hero Academia",
+    "anime_b": "My Hero Academia",
+    "question": "Did Hero Killer Stain have a much more valid critique of hero society than Shigaraki's pure desire for total destruction?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "hero_killer_disciple",
+      "swipe_left": "decay_nihilist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_13",
+    "anime_a": "JoJo's Bizarre Adventure",
+    "anime_b": "Hunter x Hunter",
+    "question": "Is Yoshikage Kira's desire for a 'quiet life' a far better character motivation than Hisoka's pedophilic battle-lust?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx666-kYzXvKlUbeMP.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "morioh_hand_fetishist",
+      "swipe_left": "bungee_gum_glazer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_14",
+    "anime_a": "JoJo's Bizarre Adventure",
+    "anime_b": "Naruto",
+    "question": "Was Father Pucci's plan to give humanity precognition of their fate more benevolent than Obito's dream-world illusion?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx666-kYzXvKlUbeMP.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "made_in_heaven_believer",
+      "swipe_left": "infinite_tsukuyomi_simp"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_15",
+    "anime_a": "Demon Slayer",
+    "anime_b": "Jujutsu Kaisen",
+    "question": "Is Muzan wanting to conquer the sun to cure his illness actually a more relatable goal than Sukuna just wanting to eat people?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "demon_king_sympathizer",
+      "swipe_left": "ryomen_meat_rider"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_16",
+    "anime_a": "Dr. Stone",
+    "anime_b": "Vinland Saga",
+    "question": "Was Tsukasa destroying adult statues to prevent corrupt society's return more noble than Askeladd's bloody scheming to protect Wales?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-GybuoSoOZfpH.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "primate_empire_founder",
+      "swipe_left": "welsh_pirate"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_17",
+    "anime_a": "One Piece",
+    "anime_b": "One Piece",
+    "question": "Does Doflamingo's traumatic childhood make his tyranny more understandable than Crocodile's ruthless plot to conquer Alabasta?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "celestial_dragon_apologist",
+      "swipe_left": "baroque_works_ceo"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_18",
+    "anime_a": "Puella Magi Madoka Magica",
+    "anime_b": "Chainsaw Man",
+    "question": "Was Kyubey harvesting magical girls to stop universal entropy more logically justified than Makima's forced utopia?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9756-QnUGwlwwnsuN.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "incubator_logic",
+      "swipe_left": "control_devil_barker"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_19",
+    "anime_a": "Yu Yu Hakusho",
+    "anime_b": "Yu Yu Hakusho",
+    "question": "Was Sensui's total hatred of humanity after watching the Black Chapter tape more sympathetic than Younger Toguro's survivor's guilt?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx392-z90299zIvYmx.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx392-z90299zIvYmx.png",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "sacred_energy_purist",
+      "swipe_left": "demon_tournament_fan"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vj_20",
+    "anime_a": "Hunter x Hunter",
+    "anime_b": "Hunter x Hunter",
+    "question": "Does the Phantom Troupe's origin in Meteor City—a place the world threw away—justify their indiscriminate massacres?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg",
+    "category": "Villain Justification",
+    "traits": {
+      "swipe_right": "spider_loyalist",
+      "swipe_left": "hunter_sympathizer"
+    },
+    "tier": "tier_01"
+  }
+]

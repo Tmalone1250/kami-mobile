@@ -1,0 +1,282 @@
+[
+  {
+    "id": "gc_01",
+    "anime_a": "Violet Evergarden",
+    "anime_b": "Gurren Lagann",
+    "question": "Is the raw, quiet emotional trauma of Violet Evergarden more impactful than the sheer, universe-piercing hype of Gurren Lagann?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-XwRnjzGeFWRQ.png",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "tearjerker_junkie",
+      "swipe_left": "spiral_warrior"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_02",
+    "anime_a": "Kaguya-sama: Love is War",
+    "anime_b": "Death Note",
+    "question": "Did Kaguya-sama actually execute mind-game pacing and suspense better than Death Note's psychological thriller plot?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-ufrjLzhSz7L1.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "love_is_war_strategist",
+      "swipe_left": "kira_worshipper"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_03",
+    "anime_a": "Frieren: Beyond Journey's End",
+    "anime_b": "Attack on Titan",
+    "question": "Does Frieren's quiet, existential reflection on time leave a heavier impact than Attack on Titan's global political despair?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154587-qQTzQnEJJ3oB.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "elf_philosopher",
+      "swipe_left": "titan_doomer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_04",
+    "anime_a": "Grand Blue Dreaming",
+    "anime_b": "Clannad: After Story",
+    "question": "Is it actually harder to write Grand Blue's flawless comedic timing than Clannad's legendary tragic melodrama?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100922-uxEhaCsqMMp3.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4181-zUKE7BZC62OF.png",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "diving_club_alcoholic",
+      "swipe_left": "dango_weeper"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_05",
+    "anime_a": "Vinland Saga",
+    "anime_b": "One Punch Man",
+    "question": "Does Thorfinn's pacifist journey carry more narrative weight than Saitama's existential dread of having no challenge?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "true_warrior",
+      "swipe_left": "bored_hero"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_06",
+    "anime_a": "Steins;Gate",
+    "anime_b": "Your Lie in April",
+    "question": "Does Okarin watching Mayuri die infinitely hit way harder than Kousei reading Kaori's final letter?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-tIUXF2gfU8Sg.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20665-TLgkL8T8IRFd.png",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "mad_scientist",
+      "swipe_left": "spring_mourner"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_07",
+    "anime_a": "Cyberpunk: Edgerunners",
+    "anime_b": "Toradora!",
+    "question": "Is the tragic, hyper-violent romance of David and Lucy vastly superior to the classic slow-burn of Ryuuji and Taiga?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4224-PXVMBLNwy2aF.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "moon_dreamer",
+      "swipe_left": "tsundere_loyalist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_08",
+    "anime_a": "Haikyuu!!",
+    "anime_b": "Jujutsu Kaisen",
+    "question": "Do the final match points in Haikyuu generate more pure, unadulterated hype than Gojo's Domain Expansions?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-ooZUyBe4ptp9.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "karasuno_crow",
+      "swipe_left": "special_grade_glazer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_09",
+    "anime_a": "Bocchi the Rock!",
+    "anime_b": "Serial Experiments Lain",
+    "question": "Does Bocchi capture the reality of social anxiety better than Lain's surreal cyberpunk isolationism?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-HTDmeL4RGeJ4.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx339-xF2wp1NQuQ4r.png",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "introvert_guitarist",
+      "swipe_left": "wired_inhabitant"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_10",
+    "anime_a": "A Silent Voice",
+    "anime_b": "Akira",
+    "question": "Is Kyoto Animation's grounded depiction of bullying and redemption more culturally significant than Akira's apocalyptic cyberpunk vision?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx47-4CR68arv452h.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "shoya_sympathizer",
+      "swipe_left": "neo_tokyo_punk"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_11",
+    "anime_a": "Mushishi",
+    "anime_b": "Demon Slayer",
+    "question": "Is Mushishi's slow, atmospheric demon-hunting vastly superior to Demon Slayer's flashy, loud decapitations?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx457-l6cTtNgI9Bi6.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "mushi_master",
+      "swipe_left": "breathing_style_fanatic"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_12",
+    "anime_a": "Gintama",
+    "anime_b": "Fullmetal Alchemist: Brotherhood",
+    "question": "Did Gintama's serious arcs actually hit emotional peaks that completely rivaled FMAB's legendary narrative?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "yorozuya_freak",
+      "swipe_left": "equivalent_exchange_purist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_13",
+    "anime_a": "NANA",
+    "anime_b": "Neon Genesis Evangelion",
+    "question": "Is NANA's hyper-realistic depiction of toxic adult relationships more depressing than Shinji's apocalyptic psychological breakdown?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx877-6BUYEWp8By8j.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "black_stones_groupie",
+      "swipe_left": "eva_pilot"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_14",
+    "anime_a": "March Comes in Like a Lion",
+    "anime_b": "Hunter x Hunter",
+    "question": "Does Rei's internal battle with depression hit harder than Gon's total mental collapse in the Chimera Ant arc?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21366-0wrYK0kjKeFn.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "shogi_master",
+      "swipe_left": "adult_gon_trauma"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_15",
+    "anime_a": "Odd Taxi",
+    "anime_b": "JoJo's Bizarre Adventure",
+    "question": "Was Odd Taxi's tightly woven mystery writing completely superior to JoJo's erratic, stand-of-the-week battles?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128547-nNekWTKqmvEi.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx666-kYzXvKlUbeMP.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "walrus_detective",
+      "swipe_left": "stand_user"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_16",
+    "anime_a": "Re:Zero",
+    "anime_b": "KonoSuba",
+    "question": "Is Subaru's endless traumatic suffering actually less entertaining than Kazuma's cynical exploitation of RPG tropes?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-mPOr80AEjUcZ.png",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "suffering_enjoyer",
+      "swipe_left": "gender_equality_advocate"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_17",
+    "anime_a": "Ping Pong the Animation",
+    "anime_b": "Kuroko's Basketball",
+    "question": "Does Ping Pong's abstract character study completely embarrass Kuroko's superpower-driven basketball matches?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20607-fIOxVISIl0HY.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11771-uvr44RAwRxPw.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "yuasa_elitist",
+      "swipe_left": "zone_player"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_18",
+    "anime_a": "Made in Abyss",
+    "anime_b": "Yuru Camp",
+    "question": "Is exploring the agonizing, deadly depths of the Abyss a better viewing experience than watching anime girls peacefully go camping?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97986-TQ7dCgbS3y5s.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98444-Vzysp1EsrzgD.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "white_whistle",
+      "swipe_left": "comfy_camper"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_19",
+    "anime_a": "Monster",
+    "anime_b": "Nichijou",
+    "question": "Does Johan Liebert's complex web of terror require more genius writing than Nichijou's absurd principal-wrestling-a-deer gag?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-gtMC64182sm4.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10165-tw8Cz7K9tfVJ.png",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "nameless_monster",
+      "swipe_left": "absurdist_humorist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "gc_20",
+    "anime_a": "Cowboy Bebop",
+    "anime_b": "Fruits Basket",
+    "question": "Does Tohru Honda's emotional healing of the Sohma family carry more narrative weight than Spike Spiegel's inability to escape his past?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120-Z5i1sw1xboQP.jpg",
+    "category": "Genre Clash",
+    "traits": {
+      "swipe_right": "space_cowboy",
+      "swipe_left": "shojo_healer"
+    },
+    "tier": "tier_01"
+  }
+]

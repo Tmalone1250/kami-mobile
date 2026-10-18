@@ -1,0 +1,282 @@
+[
+  {
+    "id": "vv_01",
+    "anime_a": "One Punch Man",
+    "anime_b": "Dragon Ball Z",
+    "question": "Does Saitama easily one-shot Goku at his peak?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "gag_character_respecter",
+      "swipe_left": "dbz_loyalist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_02",
+    "anime_a": "Hunter x Hunter",
+    "anime_b": "Naruto",
+    "question": "Could the Phantom Troupe successfully infiltrate and destroy the Akatsuki?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "nen_tactician",
+      "swipe_left": "chakra_scaler"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_03",
+    "anime_a": "Jujutsu Kaisen",
+    "anime_b": "Hunter x Hunter",
+    "question": "Does Ryomen Sukuna effortlessly defeat Post-Rose Meruem?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136-gj0bbCpDNrKG.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "domain_expansion_bias",
+      "swipe_left": "chimera_ant_survivor"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_04",
+    "anime_a": "Berserk",
+    "anime_b": "Attack on Titan",
+    "question": "If dropped into Paradis, could Guts solo all Nine Titans?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx33-PSwfE5B0gejI.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "black_swordsman_believer",
+      "swipe_left": "aot_realist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_05",
+    "anime_a": "Naruto",
+    "anime_b": "Bleach",
+    "question": "Is Madara Uchiha actually a greater threat than Sosuke Aizen?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "susanoo_enjoyer",
+      "swipe_left": "kyoka_suigetsu_victim"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_06",
+    "anime_a": "Jujutsu Kaisen",
+    "anime_b": "Chainsaw Man",
+    "question": "Does Satoru Gojo's Infinity make him completely immune to Makima's control?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "infinity_glazer",
+      "swipe_left": "control_devil_simp"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_07",
+    "anime_a": "Bleach",
+    "anime_b": "Demon Slayer",
+    "question": "Would a single Espada (like Ulquiorra) wipe out all twelve Kizuki in one night?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "reiatsu_crusher",
+      "swipe_left": "ds_defender"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_08",
+    "anime_a": "JoJo's Bizarre Adventure",
+    "anime_b": "Hellsing Ultimate",
+    "question": "Does DIO (with The World) actually stand a chance against full-release Alucard?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx666-kYzXvKlUbeMP.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx777-F6547pSAR2Zd.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "time_stopper",
+      "swipe_left": "vampire_king_respecter"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_09",
+    "anime_a": "My Hero Academia",
+    "anime_b": "Assassination Classroom",
+    "question": "Could Class 1-A successfully assassinate Korosensei?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-dWrhs569YGUO.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "quirk_optimist",
+      "swipe_left": "mach_20_believer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_10",
+    "anime_a": "That Time I Got Reincarnated as a Slime",
+    "anime_b": "Overlord",
+    "question": "Does Demon Lord Rimuru completely humiliate Ainz Ooal Gown in a 1v1?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101280-tDxCVJm714nt.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20832-vUNm5zrYWifc.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "slime_supremacist",
+      "swipe_left": "nazarick_loyalist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_11",
+    "anime_a": "Mob Psycho 100",
+    "anime_b": "The Disastrous Life of Saiki K.",
+    "question": "Is 100% Mob a stronger psychic than Saiki Kusuo without his limiters?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112625-5Qi2PEQqITCa.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "emotion_scaler",
+      "swipe_left": "comedy_hax_believer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_12",
+    "anime_a": "Attack on Titan",
+    "anime_b": "Demon Slayer",
+    "question": "Would the Survey Corps be vastly more effective at killing demons than the Hashira?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "odm_gear_fanatic",
+      "swipe_left": "breathing_style_purist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_13",
+    "anime_a": "One Piece",
+    "anime_b": "Bleach",
+    "question": "Could Roronoa Zoro cut through Kenpachi Zaraki?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "haki_believer",
+      "swipe_left": "soul_reaper_scaler"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_14",
+    "anime_a": "Demon Slayer",
+    "anime_b": "Jujutsu Kaisen",
+    "question": "Is Yoriichi Tsugikuni fast enough to speed-blitz and kill Toji Fushiguro?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "sun_breathing_worshipper",
+      "swipe_left": "heavenly_restriction_fan"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_15",
+    "anime_a": "Fullmetal Alchemist: Brotherhood",
+    "anime_b": "Jujutsu Kaisen",
+    "question": "Could the Homunculi survive the Shibuya Incident?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "philosophers_stone_scaler",
+      "swipe_left": "special_grade_elitist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_16",
+    "anime_a": "My Hero Academia",
+    "anime_b": "Jujutsu Kaisen",
+    "question": "Is Shigaraki's 'Decay' a more lethal touch than Mahito's 'Idle Transfiguration'?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-nYh85uj2Fuwr.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "quirk_supremacist",
+      "swipe_left": "soul_manipulator"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_17",
+    "anime_a": "Fate/Stay Night",
+    "anime_b": "Naruto",
+    "question": "Could Gilgamesh defeat Six Paths Naruto using only the Gate of Babylon?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx356-mTpMvtillumS.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "king_of_heroes",
+      "swipe_left": "baryon_mode_scaler"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_18",
+    "anime_a": "Cyberpunk: Edgerunners",
+    "anime_b": "Ghost in the Shell",
+    "question": "Would David Martinez (with the Cyberskeleton) lose to Major Kusanagi's tactical hacking?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx43-Y6EjeEMM14dj.png",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "sandevistan_addict",
+      "swipe_left": "section_9_operative"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_19",
+    "anime_a": "Dragon Ball",
+    "anime_b": "Naruto",
+    "question": "Is standard Genjutsu completely useless against Ki users?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx223-scE5uJfXqqj8.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "db_apologist",
+      "swipe_left": "sharingan_theorist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "vv_20",
+    "anime_a": "JoJo's Bizarre Adventure",
+    "anime_b": "Fist of the North Star",
+    "question": "Is Star Platinum just a watered-down version of Kenshiro?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx666-kYzXvKlUbeMP.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n967-84jNBaInec98.png",
+    "category": "Verse vs. Verse",
+    "traits": {
+      "swipe_right": "retro_purist",
+      "swipe_left": "stand_user"
+    },
+    "tier": "tier_01"
+  }
+]

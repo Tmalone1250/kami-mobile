@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ww_01",
+    "anime_a": "Re:Zero",
+    "anime_b": "Sword Art Online",
+    "question": "Does Rem's ride-or-die devotion make her a superior partner to Asuna's ride-or-die Aincrad romance?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "rem_loyalist",
+      "swipe_left": "ainclad_survivor"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_02",
+    "anime_a": "Chainsaw Man",
+    "anime_b": "Akame ga Kill!",
+    "question": "Does Makima's psychological manipulation make her a better 'step-on-me' villain than Esdeath's pure sadistic violence?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20613-HXHpec4bemk5.jpg",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "control_devil_dog",
+      "swipe_left": "empire_bootlicker"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_03",
+    "anime_a": "Jujutsu Kaisen",
+    "anime_b": "Attack on Titan",
+    "question": "Is Gojo's untouchable swagger actually more attractive than Levi's tragic, battle-hardened competence?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "category": "Husbando Wars",
+    "traits": {
+      "swipe_right": "infinity_simp",
+      "swipe_left": "ackerman_devotee"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_04",
+    "anime_a": "Naruto",
+    "anime_b": "Naruto",
+    "question": "Did Hinata's unwavering loyalty make her a vastly better partner for Naruto than Sakura ever could have been?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "byakugan_princess_fan",
+      "swipe_left": "inner_sakura_defender"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_05",
+    "anime_a": "Steins;Gate",
+    "anime_b": "Monogatari Series",
+    "question": "Is Kurisu's tsundere genius better written than Senjougahara's aggressive, sharp-tongued devotion?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-tIUXF2gfU8Sg.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17074-xMhVAZsEDH66.png",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "christina_assistant",
+      "swipe_left": "crab_god_worshipper"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_06",
+    "anime_a": "JoJo's Bizarre Adventure",
+    "anime_b": "One Piece",
+    "question": "Is Speedwagon objectively the ultimate waifu/husbando over Zoro's sheer badass loyalty?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx666-kYzXvKlUbeMP.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "category": "Husbando Wars",
+    "traits": {
+      "swipe_right": "speedwagon_foundation_ceo",
+      "swipe_left": "mosshead_navigator"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_07",
+    "anime_a": "Darling in the Franxx",
+    "anime_b": "Future Diary",
+    "question": "Did Zero Two's 'darling' obsession completely surpass Yuno Gasai as the ultimate yandere-adjacent waifu?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99423-8MBxtwCeHf8B.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10620-dUZeNej0W4QN.png",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "franxx_pilot",
+      "swipe_left": "yandere_survivalist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_08",
+    "anime_a": "Jujutsu Kaisen",
+    "anime_b": "Jujutsu Kaisen",
+    "question": "Is Toji's toxic deadbeat-dad energy somehow more appealing than Nanami's stable, reliable salaryman vibe?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "category": "Husbando Wars",
+    "traits": {
+      "swipe_right": "gambling_addict_enabler",
+      "swipe_left": "bakery_girl_sympathizer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_09",
+    "anime_a": "Spy x Family",
+    "anime_b": "My Dress-Up Darling",
+    "question": "Does Yor's deadly but wholesome mommy energy completely outclass Marin's perfect otaku dream-girl aesthetic?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132405-qP7FQYGmNI3d.jpg",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "thorn_princess_target",
+      "swipe_left": "cosplay_simp"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_10",
+    "anime_a": "Rent-A-Girlfriend",
+    "anime_b": "Rent-A-Girlfriend",
+    "question": "Is Chizuru's endless stringing-along actually more toxic than Mami's upfront, pure villainy?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113813-SnljeXpU3Pw7.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113813-SnljeXpU3Pw7.jpg",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "rental_delusionist",
+      "swipe_left": "mami_menace"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_11",
+    "anime_a": "KonoSuba",
+    "anime_b": "KonoSuba",
+    "question": "Is Megumin's one-trick explosion obsession actually better waifu material than Aqua's completely useless goddess tantrums?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-mPOr80AEjUcZ.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21202-mPOr80AEjUcZ.png",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "explosion_fanatic",
+      "swipe_left": "axis_cult_member"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_12",
+    "anime_a": "Naruto",
+    "anime_b": "Fullmetal Alchemist: Brotherhood",
+    "question": "Does Kakashi's masked, tragic mystery make him a better husbando than Mustang's ambitious, fiery charisma?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
+    "category": "Husbando Wars",
+    "traits": {
+      "swipe_right": "make_out_tactics_reader",
+      "swipe_left": "miniskirt_army_recruit"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_13",
+    "anime_a": "Code Geass",
+    "anime_b": "Code Geass",
+    "question": "Was C.C.'s immortal, pizza-eating apathy a better match for Lelouch than Kallen's fierce, frontline loyalty?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126830-Mx56p5DMIjiq.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126830-Mx56p5DMIjiq.png",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "geass_contractor",
+      "swipe_left": "black_knight_pilot"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_14",
+    "anime_a": "Neon Genesis Evangelion",
+    "anime_b": "Tenchi Muyo!",
+    "question": "Is Misato the undisputed pioneer of the 'messy older woman' trope over Ryoko's space-pirate chaos?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx696-q40thYobzxmz.jpg",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "yebisu_drinker",
+      "swipe_left": "cabbit_owner"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_15",
+    "anime_a": "Jujutsu Kaisen",
+    "anime_b": "Naruto",
+    "question": "Is Choso's desperate, ride-or-die big brother energy infinitely more endearing than Itachi's traumatizing 'tough love'?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "category": "Husbando Wars",
+    "traits": {
+      "swipe_right": "piercing_blood_bro",
+      "swipe_left": "genjutsu_traumatized"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_16",
+    "anime_a": "Attack on Titan",
+    "anime_b": "Attack on Titan",
+    "question": "Did Mikasa's obsessive devotion to Eren ruin her character compared to Historia's selfish but liberating character arc?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "scarf_wrapper",
+      "swipe_left": "queen_of_the_walls"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_17",
+    "anime_a": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "anime_b": "My Teen Romantic Comedy SNAFU",
+    "question": "Does Mai's perfect emotional maturity completely embarrass Yukino's endless icy miscommunication?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101291-wfEdgPqtfU0l.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14813-3mNvcKNEQcDs.jpg",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "bunny_girl_senpai",
+      "swipe_left": "service_club_member"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_18",
+    "anime_a": "Berserk",
+    "anime_b": "Vinland Saga",
+    "question": "Is Guts' protective, violent endurance more attractive than Thorfinn's profound, peaceful reformation?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx33-PSwfE5B0gejI.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
+    "category": "Husbando Wars",
+    "traits": {
+      "swipe_right": "struggler_sympathizer",
+      "swipe_left": "true_warrior_pacifist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_19",
+    "anime_a": "Chainsaw Man",
+    "anime_b": "Cyberpunk: Edgerunners",
+    "question": "Is Power's unhygienic, gremlin narcissism a better gremlin-waifu dynamic than Rebecca's ride-or-die, gun-toting loyalty?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "blood_devil_contractor",
+      "swipe_left": "cyberpsycho_choom"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ww_20",
+    "anime_a": "Fate/stay night",
+    "anime_b": "Fate/stay night",
+    "question": "Is Saber's noble, tragic king persona vastly superior to Rin's quintessential, foundational tsundere perfection?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx356-mTpMvtillumS.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx356-mTpMvtillumS.png",
+    "category": "Waifu Wars",
+    "traits": {
+      "swipe_right": "avalon_seeker",
+      "swipe_left": "zettai_ryouiki_connoisseur"
+    },
+    "tier": "tier_01"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p1",
+    "anime_a": "Hunter x Hunter",
+    "anime_b": "Jujutsu Kaisen",
+    "question": "Could the Phantom Troupe survive the Shibuya Incident?",
+    "image_a_url": "https://picsum.photos/seed/kami-p1-a/600/500",
+    "image_b_url": "https://picsum.photos/seed/kami-p1-b/600/500"
+  },
+  {
+    "id": "p2",
+    "anime_a": "Naruto",
+    "anime_b": "Bleach",
+    "question": "Would the Akatsuki beat the Espada in a full squad battle?",
+    "image_a_url": "https://picsum.photos/seed/kami-p2-a/600/500",
+    "image_b_url": "https://picsum.photos/seed/kami-p2-b/600/500"
+  },
+  {
+    "id": "p3",
+    "anime_a": "One Piece",
+    "anime_b": "Fullmetal Alchemist",
+    "question": "Could the Straw Hats escape Father's nationwide transmutation circle?",
+    "image_a_url": "https://picsum.photos/seed/kami-p3-a/600/500",
+    "image_b_url": "https://picsum.photos/seed/kami-p3-b/600/500"
+  },
+  {
+    "id": "p4",
+    "anime_a": "Attack on Titan",
+    "anime_b": "Demon Slayer",
+    "question": "Would the Survey Corps defeat Muzan before sunrise?",
+    "image_a_url": "https://picsum.photos/seed/kami-p4-a/600/500",
+    "image_b_url": "https://picsum.photos/seed/kami-p4-b/600/500"
+  },
+  {
+    "id": "p5",
+    "anime_a": "Dragon Ball Z",
+    "anime_b": "One Punch Man",
+    "question": "Does Goku last longer than one punch against Saitama?",
+    "image_a_url": "https://picsum.photos/seed/kami-p5-a/600/500",
+    "image_b_url": "https://picsum.photos/seed/kami-p5-b/600/500"
+  }
+]

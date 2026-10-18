@@ -1,0 +1,282 @@
+[
+  {
+    "id": "ss_01",
+    "anime_a": "Attack on Titan",
+    "anime_b": "Attack on Titan",
+    "question": "Did MAPPA's CGI Titans completely ruin the cinematic magic that WIT Studio established in the early seasons?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-buvcRTBx4NSm.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "wit_purist",
+      "swipe_left": "mappa_overworker"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_02",
+    "anime_a": "Demon Slayer",
+    "anime_b": "Mob Psycho 100",
+    "question": "Is Ufotable's heavy digital compositing and lighting actually inferior to Bones' raw, hand-drawn sakuga animation?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-WBsBl0ClmgYL.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-6YUSbh2m0N1p.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "sakuga_elitist",
+      "swipe_left": "unlimited_budget_works"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_03",
+    "anime_a": "One Piece",
+    "anime_b": "Dragon Ball Z",
+    "question": "Is Toei's abysmal pacing in the One Piece anime actually worse than the infamous '5 minutes' of Namek in DBZ?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx813-ZhnFNOeCU5dQ.png",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "wano_aura_hater",
+      "swipe_left": "namek_survivor"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_04",
+    "anime_a": "Kill la Kill",
+    "anime_b": "Neon Genesis Evangelion",
+    "question": "Has Studio Trigger officially surpassed Gainax's legendary golden-era legacy?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b18679-lbkq7iYESoFW.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-AI1zr74Dh4ye.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "trigger_savior",
+      "swipe_left": "gainax_boomer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_05",
+    "anime_a": "Violet Evergarden",
+    "anime_b": "A Silent Voice",
+    "question": "Is Kyoto Animation's hyper-detailed, gorgeous style wasted on melodrama compared to their grounded character dramas?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21827-ubzq619ZA2E9.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "visual_poetry_critic",
+      "swipe_left": "kyoani_worshipper"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_06",
+    "anime_a": "Naruto",
+    "anime_b": "Bleach",
+    "question": "Did Naruto suffer worse from Studio Pierrot's endless filler flashbacks than Bleach did from the infamous Bount arc?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-d2GmRkJbMopq.png",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "swing_set_survivor",
+      "swipe_left": "bount_arc_victim"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_07",
+    "anime_a": "Hunter x Hunter (2011)",
+    "anime_b": "Jujutsu Kaisen",
+    "question": "Does Madhouse's consistent 148-episode directorship completely outclass MAPPA's chaotic, overworked Shibuya production?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-y5gsT1hoHuHw.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-LHBAeoZDIsnF.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "madhouse_nostalgic",
+      "swipe_left": "shibuya_hypebeast"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_08",
+    "anime_a": "Berserk (2016)",
+    "anime_b": "Ex-Arm",
+    "question": "Was the 2016 Berserk CGI actually a greater crime against its source material than Ex-Arm's sheer visual incompetence?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21560-6iifjdssfebJ.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106503-7pbrod3B9HJF.png",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "clang_trauma_survivor",
+      "swipe_left": "ex_arm_masochist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_09",
+    "anime_a": "Sword Art Online",
+    "anime_b": "86 EIGHTY-SIX",
+    "question": "Did A-1 Pictures completely redeem their reputation with '86' after years of being known as the 'generic SAO studio'?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11757-SxYDUzdr9rh2.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-KawXHB6sApFt.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "spearhead_squadron_fan",
+      "swipe_left": "a1_hater"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_10",
+    "anime_a": "Monogatari Series",
+    "anime_b": "Puella Magi Madoka Magica",
+    "question": "Does Studio Shaft's avant-garde head-tilt directing fit Monogatari's rapid-fire dialogue better than Madoka's psychological horror?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17074-xMhVAZsEDH66.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9756-QnUGwlwwnsuN.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "nisioisin_reader",
+      "swipe_left": "urobutcher_disciple"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_11",
+    "anime_a": "JoJo's Bizarre Adventure",
+    "anime_b": "Fire Force",
+    "question": "Is David Production's bass-boosted sound design on Fire Force more impressive than their legendary work on JoJo?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx666-kYzXvKlUbeMP.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-2PKUvoaA6fTn.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "bass_drop_junkie",
+      "swipe_left": "stand_sound_purist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_12",
+    "anime_a": "Spy x Family",
+    "anime_b": "Spy x Family",
+    "question": "In their co-production of Spy x Family, did CloverWorks actually carry the animation weight while WIT just took the credit?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-Kb6R5nYQfjmP.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "cloverworks_truther",
+      "swipe_left": "wit_loyalist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_13",
+    "anime_a": "Devilman Crybaby",
+    "anime_b": "Cyberpunk: Edgerunners",
+    "question": "Did Science SARU's abstract, fluid direction in Devilman Crybaby hit harder than Trigger's neon chaos in Edgerunners?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98460-bLtH2c3jd6sV.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120377-ayZPoxiWt4Li.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "yuasa_freak",
+      "swipe_left": "cyberpsycho"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_14",
+    "anime_a": "Spirited Away",
+    "anime_b": "Your Name",
+    "question": "Has Makoto Shinkai's hyper-realistic lighting (CoMix Wave) officially dethroned Studio Ghibli's hand-painted cel animation charm?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199-sWefXJvXkDOb.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97962-3rBcawJt63sG.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "shinkai_sky_watcher",
+      "swipe_left": "miyazaki_traditionalist"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_15",
+    "anime_a": "Ghost in the Shell",
+    "anime_b": "Mobile Suit Gundam",
+    "question": "Does Production I.G do cyberpunk aesthetics better than Sunrise does mecha designs?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx43-Y6EjeEMM14dj.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx80-pdYJ12vSTmad.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "section_9_operative",
+      "swipe_left": "newtype_veteran"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_16",
+    "anime_a": "One Punch Man",
+    "anime_b": "DanMachi",
+    "question": "Was J.C. Staff taking over One Punch Man Season 2 the single biggest studio downgrade in anime history?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-B5DHjqZ3kW4b.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20920-MTREwZOG4BAD.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "madhouse_mourner",
+      "swipe_left": "jc_staff_defender"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_17",
+    "anime_a": "Re:Zero",
+    "anime_b": "Steins;Gate",
+    "question": "Did White Fox do a better job adapting the psychological suffering in Re:Zero than the time-travel paranoia in Steins;Gate?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21355-wRVUrGxpvIQQ.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-tIUXF2gfU8Sg.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "subaru_sympathizer",
+      "swipe_left": "lab_member_001"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_18",
+    "anime_a": "Chainsaw Man",
+    "anime_b": "Dorohedoro",
+    "question": "Was MAPPA's cinematic, realistic direction for Chainsaw Man a pretentious mistake compared to their gritty, fun work on Dorohedoro?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-DdP4vAdssLoz.png",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105228-I4xr84QS9Pvk.jpg",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "cinematic_hater",
+      "swipe_left": "hole_dweller"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_19",
+    "anime_a": "One Piece",
+    "anime_b": "Black Clover",
+    "question": "Does Toei dragging out One Piece scenes abuse the weekly broadcast model worse than Pierrot's inconsistent art in Black Clover?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-fyh8o7gNbha0.png",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "aura_piece_critic",
+      "swipe_left": "asta_screamer"
+    },
+    "tier": "tier_01"
+  },
+  {
+    "id": "ss_20",
+    "anime_a": "Mushoku Tensei",
+    "anime_b": "Fate/Stay Night",
+    "question": "Does Studio Bind's hyper-dedicated world-building animation rival Ufotable's legendary visual effects?",
+    "image_a_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-1ANspF1EWyFx.jpg",
+    "image_b_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx356-mTpMvtillumS.png",
+    "category": "Studio vs. Studio",
+    "traits": {
+      "swipe_right": "studio_bind_believer",
+      "swipe_left": "fate_tax_payer"
+    },
+    "tier": "tier_01"
+  }
+]

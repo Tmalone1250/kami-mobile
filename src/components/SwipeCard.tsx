@@ -192,32 +192,50 @@ export const SwipeCard = forwardRef<SwipeCardRef, SwipeCardProps>(
     const rightChoiceBadgeStyle = useAnimatedStyle(() => {
       const opacity = interpolate(
         translateX.value,
-        [0, SWIPE_THRESHOLD / 2, SWIPE_THRESHOLD],
-        [0, 0.4, 1],
+        [0, SWIPE_THRESHOLD / 3, SWIPE_THRESHOLD],
+        [0, 0.5, 1],
         Extrapolation.CLAMP
       );
-      return { opacity };
+      const scale = interpolate(
+        translateX.value,
+        [0, SWIPE_THRESHOLD],
+        [0.85, 1.1],
+        Extrapolation.CLAMP
+      );
+      return {
+        opacity,
+        transform: [{ scale }, { rotate: "-8deg" }],
+      };
     });
 
     const leftChoiceBadgeStyle = useAnimatedStyle(() => {
       const opacity = interpolate(
         translateX.value,
-        [-SWIPE_THRESHOLD, -SWIPE_THRESHOLD / 2, 0],
-        [1, 0.4, 0],
+        [-SWIPE_THRESHOLD, -SWIPE_THRESHOLD / 3, 0],
+        [1, 0.5, 0],
         Extrapolation.CLAMP
       );
-      return { opacity };
+      const scale = interpolate(
+        translateX.value,
+        [-SWIPE_THRESHOLD, 0],
+        [1.1, 0.85],
+        Extrapolation.CLAMP
+      );
+      return {
+        opacity,
+        transform: [{ scale }, { rotate: "8deg" }],
+      };
     });
 
     const imageA =
       prompt.image_a_url?.includes("/banner/") &&
-      (animeMediaCache as Record<string, any>)[prompt.anime_a]?.coverImage
+        (animeMediaCache as Record<string, any>)[prompt.anime_a]?.coverImage
         ? (animeMediaCache as Record<string, any>)[prompt.anime_a].coverImage
         : prompt.image_a_url;
 
     const imageB =
       prompt.image_b_url?.includes("/banner/") &&
-      (animeMediaCache as Record<string, any>)[prompt.anime_b]?.coverImage
+        (animeMediaCache as Record<string, any>)[prompt.anime_b]?.coverImage
         ? (animeMediaCache as Record<string, any>)[prompt.anime_b].coverImage
         : prompt.image_b_url;
 
@@ -431,29 +449,91 @@ export const SwipeCard = forwardRef<SwipeCardRef, SwipeCardProps>(
             )}
           </View>
 
-          {/* Visual Swipe Stamp: Right (Green Check / Choice A) */}
-          <Animated.View
+          {/* Centered Large Visual Swipe Stamps (YES / NO) */}
+          <View
             pointerEvents="none"
-            style={rightChoiceBadgeStyle}
-            className="absolute top-6 right-6 z-30 bg-emerald-500/90 border-2 border-white px-4 py-1.5 rounded-full flex-row items-center shadow-lg"
+            style={[StyleSheet.absoluteFill, { zIndex: 35, alignItems: "center", justifyContent: "center" }]}
           >
-            <Ionicons name="checkmark-circle" size={18} color="#FFFFFF" />
-            <Text className="text-white font-black text-xs ml-1.5 uppercase tracking-wider">
-              YES / RIGHT
-            </Text>
-          </Animated.View>
+            {/* Visual Swipe Stamp: Right (Green Check / Choice A) */}
+            <Animated.View
+              pointerEvents="none"
+              style={[
+                rightChoiceBadgeStyle,
+                {
+                  position: "absolute",
+                  backgroundColor: "rgba(16, 185, 129, 0.95)",
+                  borderWidth: 4,
+                  borderColor: "#FFFFFF",
+                  paddingHorizontal: 28,
+                  paddingVertical: 14,
+                  borderRadius: 9999,
+                  flexDirection: "row",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  shadowColor: "#000",
+                  shadowOffset: { width: 0, height: 8 },
+                  shadowOpacity: 0.35,
+                  shadowRadius: 12,
+                  elevation: 10,
+                },
+              ]}
+            >
+              <Ionicons name="checkmark-circle" size={32} color="#FFFFFF" />
+              <Text
+                style={{
+                  color: "#FFFFFF",
+                  fontSize: 22,
+                  fontWeight: "900",
+                  marginLeft: 10,
+                  textTransform: "uppercase",
+                  letterSpacing: 1.5,
+                  includeFontPadding: false,
+                }}
+              >
+                HECK YES!
+              </Text>
+            </Animated.View>
 
-          {/* Visual Swipe Stamp: Left (Red X / Choice B) */}
-          <Animated.View
-            pointerEvents="none"
-            style={leftChoiceBadgeStyle}
-            className="absolute top-6 left-6 z-30 bg-rose-500/90 border-2 border-white px-4 py-1.5 rounded-full flex-row items-center shadow-lg"
-          >
-            <Ionicons name="close-circle" size={18} color="#FFFFFF" />
-            <Text className="text-white font-black text-xs ml-1.5 uppercase tracking-wider">
-              NO / LEFT
-            </Text>
-          </Animated.View>
+            {/* Visual Swipe Stamp: Left (Red X / Choice B) */}
+            <Animated.View
+              pointerEvents="none"
+              style={[
+                leftChoiceBadgeStyle,
+                {
+                  position: "absolute",
+                  backgroundColor: "rgba(244, 63, 94, 0.95)",
+                  borderWidth: 4,
+                  borderColor: "#FFFFFF",
+                  paddingHorizontal: 28,
+                  paddingVertical: 14,
+                  borderRadius: 9999,
+                  flexDirection: "row",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  shadowColor: "#000",
+                  shadowOffset: { width: 0, height: 8 },
+                  shadowOpacity: 0.35,
+                  shadowRadius: 12,
+                  elevation: 10,
+                },
+              ]}
+            >
+              <Ionicons name="close-circle" size={32} color="#FFFFFF" />
+              <Text
+                style={{
+                  color: "#FFFFFF",
+                  fontSize: 22,
+                  fontWeight: "900",
+                  marginLeft: 10,
+                  textTransform: "uppercase",
+                  letterSpacing: 1.5,
+                  includeFontPadding: false,
+                }}
+              >
+                NAH
+              </Text>
+            </Animated.View>
+          </View>
 
           {/* Burnt Orange Timeout Flash Overlay */}
           <Animated.View

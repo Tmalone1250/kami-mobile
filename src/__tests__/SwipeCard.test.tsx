@@ -68,8 +68,8 @@ describe('SwipeCard', () => {
     expect(getByText(/Hunter x Hunter/)).toBeTruthy();
     expect(getByText(/Jujutsu Kaisen/)).toBeTruthy();
     expect(getByText('Could the Phantom Troupe survive the Shibuya Incident?')).toBeTruthy();
-    expect(getByText('YES / RIGHT')).toBeTruthy();
-    expect(getByText('NO / LEFT')).toBeTruthy();
+    expect(getByText('HECK YES!')).toBeTruthy();
+    expect(getByText('NAH')).toBeTruthy();
   });
 
   it('exposes a swipe method via ref', () => {

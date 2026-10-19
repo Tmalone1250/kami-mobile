@@ -331,6 +331,7 @@ export const ForgeScreen: React.FC<ForgeScreenProps> = (props) => {
       consensusBonus,
       tierMultiplier,
       totalEarned,
+      isCrucibleMode: Boolean(isCrucibleMode),
     });
   };
 
@@ -596,16 +597,20 @@ export const ForgeScreen: React.FC<ForgeScreenProps> = (props) => {
             </Text>
 
             <Text className="text-slate-500 text-center text-sm mb-6 leading-relaxed">
-              All 10 matchups decided! Calculating your rewards...
+              {isCrucibleMode
+                ? "All community matchups decided! Ready to review your canon impact..."
+                : "All 10 matchups decided! Calculating your rewards..."}
             </Text>
 
             <TouchableOpacity
               activeOpacity={0.85}
               onPress={() => navigateToResults()}
-              className="w-full bg-mango-500 py-4 rounded-full items-center justify-center shadow-md"
+              className={`w-full py-4 rounded-full items-center justify-center shadow-md ${
+                isCrucibleMode ? "bg-purple-600" : "bg-mango-500"
+              }`}
             >
               <Text className="text-white font-extrabold text-base">
-                View Results & Claim
+                {isCrucibleMode ? "View Crucible Impact" : "View Results & Claim"}
               </Text>
             </TouchableOpacity>
           </View>

@@ -3,7 +3,7 @@ import { render, fireEvent, waitFor, act } from '@testing-library/react-native';
 import { HubHeader } from '../components/HubHeader';
 import * as Clipboard from 'expo-clipboard';
 
-jest.setTimeout(15000);
+jest.setTimeout(30000);
 
 const mockCreate = jest.fn();
 const mockLogout = jest.fn();

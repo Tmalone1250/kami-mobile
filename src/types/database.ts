@@ -1,3 +1,10 @@
+export type DailySpinsUsed = {
+  tier_01?: number;
+  tier_02?: number;
+  tier_03?: number;
+  [key: string]: number | undefined;
+};
+
 export type Json =
   | string
   | number
@@ -143,6 +150,8 @@ export interface Database {
           prompts_forged: number;
           creator_swipes_received: number;
           last_free_forge_at: string | null;
+          daily_spins_used: DailySpinsUsed | null;
+          spins_reset_at: string | null;
           created_at: string;
           updated_at: string;
         };
@@ -163,6 +172,8 @@ export interface Database {
           prompts_forged?: number;
           creator_swipes_received?: number;
           last_free_forge_at?: string | null;
+          daily_spins_used?: DailySpinsUsed | null;
+          spins_reset_at?: string | null;
           created_at?: string;
           updated_at?: string;
         };
@@ -183,6 +194,8 @@ export interface Database {
           prompts_forged?: number;
           creator_swipes_received?: number;
           last_free_forge_at?: string | null;
+          daily_spins_used?: DailySpinsUsed | null;
+          spins_reset_at?: string | null;
           created_at?: string;
           updated_at?: string;
         };
@@ -220,6 +233,41 @@ export interface Database {
           updated_at?: string;
         };
         Relationships: [];
+      };
+      external_withdrawals: {
+        Row: {
+          id: string;
+          user_id: string;
+          destination_address: string;
+          amount: number;
+          tx_hash: string | null;
+          created_at: string;
+        };
+        Insert: {
+          id?: string;
+          user_id: string;
+          destination_address: string;
+          amount: number;
+          tx_hash?: string | null;
+          created_at?: string;
+        };
+        Update: {
+          id?: string;
+          user_id?: string;
+          destination_address?: string;
+          amount?: number;
+          tx_hash?: string | null;
+          created_at?: string;
+        };
+        Relationships: [
+          {
+            foreignKeyName: "external_withdrawals_user_id_fkey";
+            columns: ["user_id"];
+            isOneToOne: false;
+            referencedRelation: "users";
+            referencedColumns: ["id"];
+          }
+        ];
       };
       swipes: {
         Row: {
@@ -341,6 +389,46 @@ export interface Database {
         Returns: {
           success: boolean;
           new_balance: number;
+        };
+      };
+      consume_daily_spin: {
+        Args: {
+          p_user_id: string;
+          p_tier: string;
+        };
+        Returns: {
+          success: boolean;
+          error?: string;
+          current_count: number;
+          remaining: number;
+          daily_spins_used: DailySpinsUsed;
+        };
+      };
+      validate_external_withdrawal: {
+        Args: {
+          p_user_id: string;
+          p_destination_address: string;
+          p_amount?: number;
+        };
+        Returns: {
+          success: boolean;
+          error?: string;
+          message?: string;
+          curator_score?: number;
+        };
+      };
+      record_external_withdrawal: {
+        Args: {
+          p_user_id: string;
+          p_destination_address: string;
+          p_amount: number;
+          p_tx_hash?: string | null;
+        };
+        Returns: {
+          success: boolean;
+          error?: string;
+          message?: string;
+          withdrawal_id?: string;
         };
       };
     };

@@ -16,6 +16,7 @@ export type RootStackParamList = {
     consensusBonus: number;
     tierMultiplier: number;
     totalEarned: number;
+    isCrucibleMode?: boolean;
   };
   EditProfile: undefined;
   Transfer: undefined;

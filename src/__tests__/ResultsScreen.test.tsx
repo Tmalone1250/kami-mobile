@@ -4,6 +4,16 @@ import { ResultsScreen } from '../screens/ResultsScreen';
 import { supabase } from '../lib/supabase';
 
 const mockNavigate = jest.fn();
+let mockRouteParams: any = {
+  tier: 'tier_01',
+  category: 'Genre Clash',
+  answersCount: 10,
+  agreedCount: 8,
+  baseReward: 0.5,
+  consensusBonus: 1.2,
+  tierMultiplier: 1.0,
+  totalEarned: 0.6,
+};
 
 jest.mock('@react-navigation/native', () => ({
   ...jest.requireActual('@react-navigation/native'),
@@ -11,16 +21,7 @@ jest.mock('@react-navigation/native', () => ({
     navigate: mockNavigate,
   }),
   useRoute: () => ({
-    params: {
-      tier: 'tier_01',
-      category: 'Genre Clash',
-      answersCount: 10,
-      agreedCount: 8,
-      baseReward: 0.5,
-      consensusBonus: 1.2,
-      tierMultiplier: 1.0,
-      totalEarned: 0.6,
-    },
+    params: mockRouteParams,
   }),
 }));
 
@@ -127,4 +128,37 @@ describe('ResultsScreen', () => {
 
     expect(mockNavigate).toHaveBeenCalledWith('Main');
   });
+
+  it("renders celebratory Crucible UI when isCrucibleMode is true and does not invoke claim rewards", async () => {
+    mockRouteParams = {
+      tier: "tier_01",
+      category: "The Crucible",
+      answersCount: 10,
+      agreedCount: 7,
+      baseReward: 0.5,
+      consensusBonus: 1.2,
+      tierMultiplier: 1.0,
+      totalEarned: 0.6,
+      isCrucibleMode: true,
+    };
+
+    const { getByText, getByTestId, queryByText } = render(<ResultsScreen />);
+
+    expect(getByText("The Canon Has Been Shaped!")).toBeTruthy();
+    expect(getByText("THE CRUCIBLE • COMMUNITY ARENA")).toBeTruthy();
+    expect(getByText("100% Free-Play")).toBeTruthy();
+    expect(getByText("COMMUNITY TRUST EXPANDED")).toBeTruthy();
+    expect(getByText("CONTINUE CURATION / BACK TO HUB")).toBeTruthy();
+
+    // Verify claim button is NOT present
+    expect(queryByText("CLAIM TO WALLET")).toBeNull();
+
+    const continueButton = getByTestId("crucible-continue-button");
+    fireEvent.press(continueButton);
+
+    expect(mockNavigate).toHaveBeenCalledWith("Main");
+    expect(supabase.functions.invoke).not.toHaveBeenCalled();
+    expect(supabase.rpc).not.toHaveBeenCalled();
+  });
+
 });

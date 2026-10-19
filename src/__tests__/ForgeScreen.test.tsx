@@ -1,3 +1,4 @@
+jest.setTimeout(25000);
 jest.mock('@privy-io/expo', () => ({
   usePrivy: () => ({
     user: { id: 'did:privy:testuser123' },

@@ -14,7 +14,7 @@
     "android": {
       "package": "com.tmalone1250.kami",
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#FFFFFF",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
@@ -27,6 +27,18 @@
     "plugins": [
       "expo-web-browser",
       "expo-secure-store"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "53e78e01-c692-4006-bb51-d8b4b82c8c6e"
+      }
+    },
+    "owner": "tmalone1250",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/53e78e01-c692-4006-bb51-d8b4b82c8c6e"
+    }
   }
 }
